@@ -1,0 +1,35 @@
+Concept:
+
+. You're a contestant in an entertainment game
+. Survive as many testing grounds as possible
+. Can you reach the end?
+. You can use forceful or stealthy combat
+
+Rules:
+
+. You can pass a testing ground undetected
+. If detected, clear the area
+. Scored by how many testing grounds you pass
+
+Requirements:
+
+. Testing ground scenery
+. Props and textures
+. A rigged character we can modify
+. Gun and projectile meshes
+. Various SFX, samples from Gamemaster Audio
+. Other
+
+Potential Challenges:
+
+. Procedural generation of testing grounds
+. Controlling animations
+. AI behaviour and awareness
+. Tracking large assets in git
+
+How the Grounds Spawn:
+
+.Transition (barrier)
+.Blocked on AI detection event
+
+
